@@ -32,7 +32,7 @@ We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). (Assuming you're using the MIT License; adjust as necessary.)
+This project is licensed under the [MIT License](LICENSE). (Assuming you're using the MIT License; adjust as necessary.)
 
 ## Contact
 For any questions or feedback, please contact Tim De Hof.
