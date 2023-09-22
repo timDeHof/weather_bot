@@ -22,9 +22,9 @@ Rename the config.sample.json to config.json (assuming you have a configuration 
 Fill in your Discord bot token and any other necessary API keys.
 
 ## Usage
-- /ping: bot replies with "Pong!"
-- /forecast <location> <units>: Get the current weather for the specified city.
-- /astro <location>: Get the astromical forecast for the specified city.
+- /ping : bot replies with "Pong!"
+- /forecast <location> <units> : Get the current weather for the specified city.
+- /astro <location> : Get the astromical forecast for the specified city.
 
 ## Contributing
 
