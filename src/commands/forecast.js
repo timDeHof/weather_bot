@@ -1,6 +1,7 @@
 const { SlashCommandBuilder, EmbedBuilder } = require("discord.js");
 const moment = require("moment");
 const { fetchForecast } = require("../requests/forecast");
+
 const data = new SlashCommandBuilder()
   .setName("forecast")
   .setDescription("Replies with the weather forecast!")
