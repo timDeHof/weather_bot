@@ -1,5 +1,4 @@
 const axios = require("axios");
-const { weather_api } = require("config.json");
 const URL = "https://api.weatherapi.com/v1/forecast.json";
 const FORECAST_DAYS = 3;
 const WeatherAPIKey = process.env.WEATHER_API_KEY;
